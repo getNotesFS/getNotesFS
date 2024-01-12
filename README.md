@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Web Development` 
-- :technologist: **Currently I am studying a** `Master's in Web Engineering.`
+- :technologist: **Currently I am studying a** `Master's degree in Web Engineering.`
 - :boom: You can visit [MY WEBSITE](https://sfmarmol.com) for some of my activities
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=contact-me&amp;color=EA4335&amp;style=flat-square)](mailto:sfmarmolg@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
